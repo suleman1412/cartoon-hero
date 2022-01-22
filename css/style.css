@@ -1,0 +1,28 @@
+body{
+background-color: rgba(153, 62, 35, 0.856);
+}
+h1{
+font-size: 30px;
+color: salmon;
+}
+h2{
+font-size: 20px;
+color: green;
+}
+.big{
+font-size: 120px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: rgb(102, 84, 36);
+}
+span{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font: bold;
+color: lime;
+}
+.big span{
+color: rgb(255, 255, 255);
+}
