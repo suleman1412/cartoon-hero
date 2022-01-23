@@ -22,8 +22,8 @@ header img{
 }
 
 main{
-    margin-left: 120px;
-    margin-right: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 /* uchiha itachi */
 main h1{
@@ -32,8 +32,9 @@ main h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main h2{
+    font-size: 30;
     color: white;
-    font-weight: 100;
+    font-weight: 150;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main p{
@@ -43,22 +44,33 @@ main p{
     font-size: 20px;
 }
 
-main div{
-    float: right;
-    width: 20%;
-    margin-right: 100px;
-}
- 
+
 main div img{
-    width: 100%;
     float: right;
-    padding-bottom: 20px;
+    width: 30%;
+    padding-left: 20px ;
 }
 
 
-main ol{
+main aas ol{
+    font-size: 20px;
     color: white;
+    float: inline-end;  
+    text-align: left; 
 }
+main aas img{
+    width: 20%; 
+    padding-top:20px; 
+    padding-right:50px; 
+    float:left;
+}
+
 main ul{
+    font-size: 20px;
     color: white;
+}
+
+footer{
+    background-color: rgb(219, 74, 74);
+    text-align: center;
 }
